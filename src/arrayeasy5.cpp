@@ -1,4 +1,5 @@
 #include <bits/stdc++.h> 
+// testing for merging into master branch
 vector<int> rotateArray(vector<int>& arr, int n) {
     int i, temp ;
     for(i=0 ; i<n ; i++){
