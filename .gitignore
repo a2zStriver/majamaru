@@ -1,1 +1,15 @@
 ./dist
+./build
+build
+x64
+./src/cpp_threads/ConsoleApplication1/ConsoleApplication1/x64
+./src/cpp_threads/ConsoleApplication1/.vs/ConsoleApplication1/FileContentIndex
+./src/cpp_threads/ConsoleApplication1/.vs/ConsoleApplication1/v17
+*.vcxproj*
+*.db-shm
+*.db-wal
+*.db
+*.opendb
+*.ipch
+src/cpp_threads/ConsoleApplication1/.vs/ConsoleApplication1/v17/.suo
+*.vsidx
