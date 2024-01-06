@@ -12,7 +12,7 @@ int traffic(int n, int m, vector<int> vehicle) {
 			else if(vehicle[i]==0) // break the loop if all flipped 1's are over
 				break ;
 		}
-		last_index=i ;
+		last_index=i ; // last_index will be next 0th position
 		temp_count = last_index-first_index ; // consecutive 1's
 		if(count<temp_count)
 			count = temp_count ; // updated total consecutive 1's
